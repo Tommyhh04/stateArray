@@ -17,7 +17,7 @@ function App() {
   return (
     <div>
       <button onClick={addItem}>Add Item</button>
-      {thignsElements}
+      {thingsElements}
     </div>
   );
 }
